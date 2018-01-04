@@ -1,0 +1,10 @@
+.TopicField{
+  color: #333;
+  background-color: rgba(255,255,255,.5);
+  padding: 20px;
+  margin-top: 15px;
+  border-radius: 5px;
+  width: 55vw;
+  text-align: left;
+
+}

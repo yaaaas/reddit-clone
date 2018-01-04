@@ -1,0 +1,10 @@
+.inputfield{
+  padding: 20px;
+  width: 50vw;
+  min-width: 300px;
+}
+
+input{
+  padding: 20px;
+  margin-left: 10px;
+}
